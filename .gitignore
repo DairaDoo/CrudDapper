@@ -1,0 +1,8 @@
+# Ignorar archivos y carpetas de Visual Studio
+.vs/
+*.suo
+*.user
+*.db
+*.log
+bin/
+obj/
